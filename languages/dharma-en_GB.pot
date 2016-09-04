@@ -1,0 +1,1806 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dharma Genesis Child Theme\n"
+"POT-Creation-Date: 2014-05-26 18:29+0800\n"
+"PO-Revision-Date: 2014-05-26 18:29+0800\n"
+"Last-Translator: Joe Mar Aparecio <joe@zigzagpress.com>\n"
+"Language-Team: zigzagpress <joe@zigzagpress.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: C:\\"
+"\\dharma_theme_package_v1.0\\dharma\n"
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/functions.php:186
+msgid "Bottom Widget"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/functions.php:187
+msgid "This is the bottom widget right of footer credits"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/functions.php:268
+msgid "Read More "
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/bootstrap_class_inclusion.php:298
+msgid "Name"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/bootstrap_class_inclusion.php:299
+msgid "Email"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/bootstrap_class_inclusion.php:299
+msgid "Website"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/bootstrap_class_inclusion.php:320
+msgid "Search this website"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/bootstrap_class_inclusion.php:384
+msgid "% Comments"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/bootstrap_class_inclusion.php:385
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcodes.php:980
+msgid "1 Comment"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/bootstrap_class_inclusion.php:386
+msgid "Leave a Comment"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/class/class-super-custom-post-meta.php:545
+msgid "Uploaded image:"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/class/class-super-custom-post-meta.php:548
+msgid "Uploaded file:"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/class/class-super-custom-post-meta.php:551
+#: \dharma_theme_package_v1.0\dharma/include/cpt/class/class-super-custom-post-meta.php:608
+msgid "Remove"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/class/class-super-custom-post-meta.php:566
+#, php-format
+msgid "Set %s"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/class/class-super-custom-post-meta.php:627
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/class/class-super-custom-post-meta.php:627
+msgid "Add Image"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:28
+msgid "Define slide order. Ex. 1,2,3,4,..."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:39
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:109
+msgid "Title"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:40
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:326
+msgid "Slideshow"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:41
+msgid "Slide Order"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:42
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:113
+msgid "Date"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:54
+msgid "Unable to get slideshows(s)"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:83
+msgid "Video Link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:83
+msgid ""
+"Add video link here. Video link format: Youtube: \"http://www.youtube.com/"
+"watch?v=7HKoqNJtMTQ\", Vimeo: \"http://vimeo.com/123123\""
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:84
+msgid "Button Label"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:84
+msgid "Add button label"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:85
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:244
+msgid "Button Link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:85
+msgid "Add button link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:86
+msgid "Date Label"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:87
+msgid "Date Value"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:87
+msgid "Date Value."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:88
+msgid "Client Label"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:88
+msgid "Client Label."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:89
+msgid "Client Value"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:89
+msgid "Client Value."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:90
+msgid "Category Label"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:90
+msgid "Category Label."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:99
+msgid ""
+"Upload/Attach an image to this portfolio item. Images attached in here will "
+"be shown in lightbox and single portfolio page."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:99
+msgid "Add images to this portfolio"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:110
+msgid "Portfolio Category"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:111
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:234
+msgid "Size"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:112
+msgid "Author"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:126
+msgid "Unable to get portfolio category(s)"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:154
+msgid "Include Title and Intro?"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:154
+msgid "Select Yes to include title and intro in the section"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:155
+msgid "Navigation Anchor/Section ID"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:155
+msgid ""
+"e.g. portfolio, blog. Then in custom menu add #portfolio, #blog. "
+"<strong>This should NOT be empty.</strong>"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:156
+msgid "Enter some section intro"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:206
+msgid "Position"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:214
+msgid "Dribbble link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:215
+msgid "Flickr link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:216
+msgid "Github link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:217
+msgid "Twitter link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:218
+msgid "Facebook link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:219
+msgid "Google+ link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:220
+msgid "Skype link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:221
+msgid "Tumblr link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:222
+msgid "Vimeo link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:223
+msgid "Youtube link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:224
+msgid "Linkedin link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:225
+msgid "Pinterest link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:252
+msgid "Select icons to use. Font-Awesome, Glyphicons or an Image."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:253
+msgid ""
+"Add icon classes. For font-awesome classes, please refer to this link <a "
+"href=\"http://fontawesome.io/icons/\">page</a>. For Glyphicons, refer to "
+"this <a href=\"http://getbootstrap.com/components/\">page</a> "
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:276
+msgid "Add price. Include currency symbol ( $, €, £)"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:277
+msgid "Payment Terms. (per month, per year, annually,...etc.)"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:278
+msgid "Select if this is the best price to highlight"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:279
+msgid "Button label (Sign Up, Join Now, Buy,... )"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:280
+msgid "Button link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:303
+msgid "Client Link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:303
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:304
+msgid "Add client link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:304
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:41
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:252
+msgid "Link Target"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:318
+msgid "Audio .mp3 URL"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:318
+msgid "The URL to the .mp3 audio file"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:319
+msgid "Audio .ogg, .oga URL"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:319
+msgid "The URL to the .oga, .ogg audio file"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:320
+msgid "Embed Audio"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:320
+msgid "Embed audio code here."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:329
+msgid "Enter link.  E.g., http://www.yourlink.com"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:329
+msgid "Input your link. e.g., http://www.yourlink.com"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:338
+msgid "Video File (.m4v)"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:338
+msgid "The URL to the .m4v video file"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:339
+msgid "Video File (.ogv)"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:339
+msgid "The URL to the .ogv video file"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:340
+msgid "Embed Video"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:340
+msgid ""
+"If you are using something other than self hosted video such as Youtube or "
+"Vimeo, paste the embed code here. Width is best at 600px with any height. "
+"This field will override the above."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:354
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:369
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:384
+msgid "Select the type of feature to be in the header of the page."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:355
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:370
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:385
+msgid "In this option, add the slideshow slug."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:356
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:371
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:386
+msgid "Set slider effect"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:357
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:372
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:387
+msgid "Enable caption?"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:358
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:373
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:388
+msgid "Add MP4 video URL"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:359
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:374
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:389
+msgid "Add WEBM video URL"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:360
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:375
+#: \dharma_theme_package_v1.0\dharma/include/cpt/zp_cpt.php:390
+msgid "Add OGV video URL"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:9
+msgid "Pricing"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:10
+msgid "Insert Pricing Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:13
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:112
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:136
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:391
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:408
+msgid "Columns"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:14
+msgid "Pricing Table Column. Option: 2, 3, 4"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:21
+msgid "Lead Text"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:22
+msgid "Insert Lead Text Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:25
+msgid "Content here"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:26
+msgid "Styled paragragh text"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:32
+msgid "Social Icons"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:33
+msgid "Insert Social Icons Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:36
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:396
+msgid "Alignment"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:37
+msgid "Select social alignment"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:42
+msgid "Select link target"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:46
+msgid "Dribbble"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:47
+msgid "Add dribbble url"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:50
+msgid "Flickr"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:51
+msgid "Add flickr url"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:54
+msgid "Github"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:55
+msgid "Add github url"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:58
+msgid "Pinterest"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:59
+msgid "Add pinterest url"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:62
+msgid "Twitter"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:63
+msgid "Add twitter url"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:66
+msgid "Facebook"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:67
+msgid "Add facebook url"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:70
+msgid "Google+"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:71
+msgid "Add google+ url"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:74
+msgid "Skype"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:75
+msgid "Add skype url"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:78
+msgid "Tumblr"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:79
+msgid "Add tumblr url"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:82
+msgid "Vimeo"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:83
+msgid "Add vimeo url"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:86
+msgid "Youtube"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:87
+msgid "Add youtube url"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:90
+msgid "LinkedIn"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:91
+msgid "Add linkedin url"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:97
+msgid "Contact"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:98
+msgid "Insert Contact Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:101
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:158
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:174
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:311
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:348
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:380
+msgid "Content"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:102
+msgid ""
+"Add some contact form shortcodes here. You can also use any other shortcodes "
+"here."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:108
+msgid "Blog"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:109
+msgid "Insert Blog Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:113
+msgid "Select blog section columns."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:117
+msgid "Items"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:118
+msgid "How many items to display."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:121
+msgid "Category"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:122
+msgid "Select a post category to display. Leave empty to display all."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:125
+msgid "Exclude_ids"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:126
+msgid "List the ids of the category to exclude in the query."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:132
+msgid "Team"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:133
+msgid "Insert Team Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:137
+msgid "Select team section columns."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:141
+msgid "Align"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:142
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:397
+msgid "Select content alignment."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:149
+msgid "Dismissable Text"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:150
+msgid "Insert Dismissable Text Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:153
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:169
+msgid "Contextual Class"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:154
+msgid "Select class for dismissable alert box."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:159
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:175
+msgid "You can add text or a shortcode here."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:165
+msgid "Alert"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:166
+msgid "Insert Alert Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:170
+msgid "Select class for alert box."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:181
+msgid "Accordion"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:182
+msgid "Insert Accordion Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:185
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:480
+msgid "First Tab ID"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:186
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:481
+msgid "Add first tab ID. This must be unique and one word only."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:189
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:484
+msgid "First Tab Title"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:190
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:485
+msgid "Add first tab title."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:193
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:488
+msgid "First Tab Content"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:194
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:489
+msgid "Add first tab content."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:197
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:492
+msgid "Second Tab ID"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:198
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:493
+msgid "Add second tab ID. This must be unique and one word only."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:201
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:496
+msgid "Second Tab Title"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:202
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:497
+msgid "Add second tab title."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:205
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:500
+msgid "Second Tab Content"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:206
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:501
+msgid "Add second tab content."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:209
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:504
+msgid "Third Tab ID"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:210
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:505
+msgid "Add third tab ID. This must be unique and one word only."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:213
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:508
+msgid "Third Tab Title"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:214
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:509
+msgid "Add third tab title."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:217
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:512
+msgid "Third Tab Content"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:218
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:513
+msgid "Add third tab content."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:225
+msgid "Button"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:226
+msgid "Insert Button Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:229
+msgid "Class"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:230
+msgid "Select class for buttons."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:235
+msgid "Select button size."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:239
+msgid "Inline Button"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:240
+msgid "Select true if the button should work inline."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:245
+msgid "Add button link."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:248
+msgid "Button Name"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:249
+msgid "Add button name."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:253
+msgid "Select button link target."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:260
+msgid "Portfolio"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:261
+msgid "Insert Portfolio Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:264
+msgid "Pre-select Category"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:265
+msgid ""
+"Category that will be loaded first in portfolio section. Leave empty to "
+"display all items."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:268
+msgid "Enable Lightbox"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:269
+msgid ""
+"Select true to enable portfolio lightbox, false to enable portfolio link."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:276
+msgid "Testimonial"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:277
+msgid "Insert Testimonial Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:282
+msgid "Video Section"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:283
+msgid "Insert Video Section Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:286
+msgid "Video URL"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:287
+msgid "Add video URL. e.g. //player.vimeo.com/video/82495711"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:290
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:335
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:367
+msgid "Section Title"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:291
+msgid "This will be s section title."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:294
+msgid "Video container height."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:295
+msgid "Set video container height. e.g. 200"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:298
+msgid "Video container width."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:299
+msgid "Set video container width. e.g. 300"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:302
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:339
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:371
+msgid "Short Description"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:303
+msgid "Video Section Description"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:306
+msgid "Video Position."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:307
+msgid "Alignment of the video"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:312
+msgid "Video section content. Works also with shortcodes"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:318
+msgid "Slider Section"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:319
+msgid "Insert Slider Section Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:322
+msgid "Slider Name"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:323
+msgid ""
+"Name of the slider. This serves as a slider ID. This must be unique and one "
+"word only."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:327
+msgid ""
+"This is a slide category. You can see the slideshows in Dashboard -> Slide -"
+"> Slideshows. You must use the slug."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:330
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:161
+msgid "Enable Caption?"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:331
+msgid "Select true to display caption on top of the slide images"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:336
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:368
+msgid "This is the section title"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:340
+msgid "Slider Section Description"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:343
+msgid "Slider Position."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:344
+msgid "Position of the Slider"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:349
+msgid "Slider section content. Works also with shortcodes"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:355
+msgid "Image Section"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:356
+msgid "Insert Image Section Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:359
+msgid "Image URL"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:360
+msgid "Paste Image URL here."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:363
+msgid "Link"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:364
+msgid ""
+"Place here the link where you want to go when the image is clicked. If "
+"empty, it will be in lightbox."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:372
+msgid "Add short description to the section"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:375
+msgid "Image Position."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:376
+msgid "Position of the image"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:381
+msgid "Image section content. Works also with shortcodes."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:387
+msgid "Service"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:388
+msgid "Insert Service Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:392
+msgid "Select columns"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:401
+msgid "Number of Items"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:402
+msgid "Number of items to display."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:409
+msgid "Insert column Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:412
+msgid "One Half"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:413
+msgid "One Third"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:414
+msgid "One Fourth"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:415
+msgid "Column Grid 1"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:416
+msgid "Column Grid 2"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:417
+msgid "Column Grid 3"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:418
+msgid "Column Grid 4"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:419
+msgid "Column Grid 5"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:420
+msgid "Column Grid 6"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:421
+msgid "Column Grid 7"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:422
+msgid "Column Grid 8"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:423
+msgid "Column Grid 9"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:424
+msgid "Column Grid 10"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:425
+msgid "Column Grid 11"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:426
+msgid "Column Grid 12"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:432
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:441
+msgid "Tooltip"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:433
+msgid "Insert Tooltip Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:436
+msgid "Tooltip Position"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:437
+msgid "Select tooltip position."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:442
+msgid "Text that will appear in tooltip."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:445
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:469
+msgid "Text"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:446
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:470
+msgid "Text that will have a tooltip."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:452
+msgid "Popover"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:453
+msgid "Insert Popover Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:456
+msgid "Popover Position"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:457
+msgid "Select popover position."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:461
+msgid "Popover Title"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:462
+msgid "Popover Title."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:465
+msgid "Popover Content"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:466
+msgid "Content in the popover."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:476
+msgid "Tab"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:477
+msgid "Insert Tab Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:520
+msgid "Modal Box"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:521
+msgid "Insert Modal Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:524
+msgid "Modal Name/ID."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:525
+msgid ""
+"This serves as the modal ID. This must be unique. Note: Use underscore (_) "
+"for a long word name."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:528
+msgid "Modal Trigger Label"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:529
+msgid "Modal Trigger/Button Label."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:532
+msgid "Modal Trigger/Button Size"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:533
+msgid "Select trigger/button size."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:537
+msgid "Modal Trigger/Button Class"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:538
+msgid "Select trigger/button class."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:542
+msgid "Modal Title"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:543
+msgid "Modal box title."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:546
+msgid "Modal Content"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:547
+msgid "Add modal content here. Also work with shortcode."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:550
+msgid "Modal Footer"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:551
+msgid "Add modal footer content here. Also work with shortcode."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:557
+msgid "Client Carousel"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:558
+msgid "Insert Client Carousel Shortcode"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:561
+msgid "Add Carousel Name"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcode_label.php:562
+msgid ""
+"This serves as carousel ID. It must be unique and avoid using spaces. Ex. "
+"\"client_carousel\"."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcodes.php:654
+msgid "All"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcodes.php:976
+msgid "No Comments"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcodes.php:978
+msgid " Comments"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcodes.php:984
+msgid "Comments are OFF"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcodes.php:1028
+msgid "Read More"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/shortcode/shortcodes.php:1313
+msgid "Close"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:75
+msgid "Settings reset."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:78
+msgid "Settings saved."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:122
+msgid "Page Header Settings"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:123
+msgid "Page Map Settings"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:124
+msgid "General Settings"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:125
+msgid "Footer Settings"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:136
+msgid "This settings is for the slider in the header area"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:138
+msgid "Select default feature"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:145
+msgid "Select a slideshow"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:155
+msgid "Select effect for slideshow"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:169
+msgid "MP4 URL"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:172
+msgid "WEBM URL"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:175
+msgid "OGV URL"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:179
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:195
+msgid "This settings applies through out the site."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:183
+msgid "This settings is for the map feature in the footer area"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:184
+msgid "Check to enable map on the footer."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:186
+msgid "Add Map Iframe."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:190
+msgid "Add footer map padding in percentage. e.g. 30%"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:201
+msgid "Select color scheme:"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:219
+msgid "Upload Custom Logo."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:219
+msgid "Upload Logo"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:220
+msgid "Remove Logo"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:224
+msgid "Custom Logo Width in pixel. e.g. 200"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:227
+msgid "Custom Logo Height in pixel. e.g. 200"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:231
+msgid "Upload Custom Favicon."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:234
+msgid "Upload Favicon"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:234
+msgid "Remove Favicon"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:240
+msgid "This is the general settings."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:244
+msgid "Footer Text"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:246
+msgid "Enter your site copyright here."
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:257
+msgid "Insert Image!"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:307
+msgid "Dharma Settings"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:308
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:318
+msgid "Save Settings"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:309
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:319
+msgid "Reset Settings"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:309
+#: \dharma_theme_package_v1.0\dharma/include/theme_settings.php:319
+msgid "Are you sure you want to reset?"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/page_archive.php:27
+msgid "Pages:"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/page_archive.php:37
+msgid "Categories:"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/page_archive.php:49
+msgid "Authors:"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/page_archive.php:59
+msgid "Monthly:"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/page_archive.php:69
+msgid "Recent Posts:"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/single-portfolio.php:68
+msgid "Previous"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/single-portfolio.php:72
+msgid "Next"
+msgstr ""
+
+#: C:\
+#: \dharma_theme_package_v1.0\dharma/single-portfolio.php:140
+msgid "Related Portfolio"
+msgstr ""

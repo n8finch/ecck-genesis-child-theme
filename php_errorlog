@@ -1,0 +1,13 @@
+[07-Jul-2016 16:50:15 CST6CDT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ecck5091/public_html/wp-content/themes/dharma/functions.php on line 11
+[07-Jul-2016 19:17:09 CST6CDT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ecck5091/public_html/wp-content/themes/dharma/functions.php on line 11
+[01-Aug-2016 21:00:40 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/ecck5091/public_html/wp-content/themes/dharma/archive.php on line 11
+[02-Aug-2016 03:44:58 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/ecck5091/public_html/wp-content/themes/dharma/archive.php on line 11
+[02-Aug-2016 21:29:13 CST6CDT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ecck5091/public_html/wp-content/themes/dharma/functions.php on line 11
+[02-Aug-2016 23:35:40 CST6CDT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ecck5091/public_html/wp-content/themes/dharma/functions.php on line 11
+[05-Aug-2016 12:29:40 CST6CDT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ecck5091/public_html/wp-content/themes/dharma/functions.php on line 11
+[05-Aug-2016 19:35:24 CST6CDT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ecck5091/public_html/wp-content/themes/dharma/functions.php on line 11
+[05-Aug-2016 23:53:25 CST6CDT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ecck5091/public_html/wp-content/themes/dharma/functions.php on line 11
+[09-Aug-2016 16:22:40 CST6CDT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ecck5091/public_html/wp-content/themes/dharma/functions.php on line 11
+[10-Aug-2016 02:20:30 CST6CDT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ecck5091/public_html/wp-content/themes/dharma/functions.php on line 11
+[10-Aug-2016 09:47:41 CST6CDT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ecck5091/public_html/wp-content/themes/dharma/functions.php on line 11
+[10-Aug-2016 13:40:01 CST6CDT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ecck5091/public_html/wp-content/themes/dharma/functions.php on line 11
